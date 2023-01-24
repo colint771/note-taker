@@ -23,6 +23,8 @@
   ## [Usage](#table-of-contents)
 
   Click the + button on top right of the screen to create a new note, Enter a title, write your note in the body, and press the save button. To delete a note, press the red trash can next to the note.
+  
+  To use this application, follow this link: [link](https://whispering-chamber-02642.herokuapp.com)
 
   The following is a screen shot of the webpage:
   
